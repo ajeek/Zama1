@@ -1,1 +1,1 @@
-# Zama1
+# ZAMA-Contract
